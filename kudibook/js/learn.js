@@ -1,2 +1,2 @@
 console.log("hello Kwizera");
-console.learn("I am learning js");
+console.log("I am learning js");
